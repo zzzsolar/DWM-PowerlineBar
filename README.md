@@ -3,6 +3,7 @@ Simple shell script that displays the battery power, uptime, and the current dat
 
 Make sure that Hack Nerd Fonts, ACPI, and Curl is installed. As this script will not run properly without them.![2022-08-07_10-48](https://user-images.githubusercontent.com/110750401/183296738-6c8e5559-4f34-4e95-a4d0-c783660397c3.png)
 ![2022-08-14_17-08](https://user-images.githubusercontent.com/110750401/184554959-2beb5636-be53-486c-815a-77e6461411ae.png)
+![2022-08-21_14-19](https://user-images.githubusercontent.com/110750401/185805204-732fcefe-c67f-43a4-a1ca-f7b5dd7d5359.png)
 
 #How To Configure
 
